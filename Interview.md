@@ -1,8 +1,7 @@
 > What difference between map and forEach in javascript?
 
-````javascript
-
 In JavaScript, both `map` and `forEach` are array methods used for iterating over array elements. However, they serve different purposes and have different behaviors. Here are the key differences between them:
+````javascript
 
 ### Purpose and Return Value
 
